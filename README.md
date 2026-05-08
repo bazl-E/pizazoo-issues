@@ -1,3 +1,11 @@
+<p align="center">
+	<img src="assets/pizazoo-logo.svg" alt="Pizazoo" width="300">
+</p>
+
+<p align="center">
+	<strong>A private Mac screenshot organizer for searchable, structured screenshot libraries.</strong>
+</p>
+
 # Pizazoo
 
 Pizazoo is a private Mac screenshot organizer that turns scattered screenshot files into a searchable, structured library.
